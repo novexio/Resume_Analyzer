@@ -1,0 +1,71 @@
+*{
+    overflow-x: hidden;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: content-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:  #0f0f1a;
+    color: #eaeaf0;
+}
+
+.heading{
+    text-align: center;
+    padding: 20px;
+}
+
+.upload-section{
+    min-width: 100%;
+    min-height: 300px;
+    padding: 10px;
+    background-color: #1a1a2e;
+}
+
+.upload-section h1{
+    padding: 13px;
+    background-color:  #1a1a2e;
+}
+
+#display-select{
+    background-color: #1a1a2e;
+    padding: 13px;
+}
+
+.file-input{
+    margin-top: 50px;
+    margin-bottom: 15px;
+    padding: 13px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.upload-btn{
+    margin-left: 10px;
+    padding: 13px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#result-section{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #1a1a2e;
+    color: purple;
+}
+
+#result-section h2{
+    padding: 13px;
+    background-color:  #1a1a2e;
+    color: #eaeaf0;
+}
+
+#result-section p{
+    padding: 13px;
+    background-color:  #1a1a2e;
+    color: #eaeaf0;
+}
